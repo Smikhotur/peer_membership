@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/peer_membership/static/css/main.60cc8499.chunk.css",
+    "main.js": "/peer_membership/static/js/main.e731e847.chunk.js",
+    "main.js.map": "/peer_membership/static/js/main.e731e847.chunk.js.map",
+    "runtime-main.js": "/peer_membership/static/js/runtime-main.7b83c760.js",
+    "runtime-main.js.map": "/peer_membership/static/js/runtime-main.7b83c760.js.map",
+    "static/js/2.396b2851.chunk.js": "/peer_membership/static/js/2.396b2851.chunk.js",
+    "static/js/2.396b2851.chunk.js.map": "/peer_membership/static/js/2.396b2851.chunk.js.map",
+    "static/js/3.4fe390ab.chunk.js": "/peer_membership/static/js/3.4fe390ab.chunk.js",
+    "static/js/3.4fe390ab.chunk.js.map": "/peer_membership/static/js/3.4fe390ab.chunk.js.map",
+    "index.html": "/peer_membership/index.html",
+    "static/css/main.60cc8499.chunk.css.map": "/peer_membership/static/css/main.60cc8499.chunk.css.map",
+    "static/js/2.396b2851.chunk.js.LICENSE.txt": "/peer_membership/static/js/2.396b2851.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/peer_membership/static/media/lightdack.6b0ae712.jpg",
+    "static/media/check.73cd7853.svg": "/peer_membership/static/media/check.73cd7853.svg",
+    "static/media/imgTab.3e1102cd.png": "/peer_membership/static/media/imgTab.3e1102cd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b83c760.js",
+    "static/js/2.396b2851.chunk.js",
+    "static/css/main.60cc8499.chunk.css",
+    "static/js/main.e731e847.chunk.js"
+  ]
+}
